@@ -8,7 +8,10 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.0.0
-  vector_graphics: ^1.1.11
+  vector_graphics:
+    git:
+      url: https://github.com/nank1ro/vector_graphics.git
+      path: packages/vector_graphics
   vector_graphics_codec: ^1.1.11
   vector_graphics_compiler: ^1.1.11
 
@@ -17,9 +20,8 @@ dev_dependencies:
     sdk: flutter
 
 environment:
-  sdk: '>=2.19.0-0 <4.0.0'
+  sdk: ">=2.19.0-0 <4.0.0"
   flutter: ">=3.7.0-0"
-
 # dependency_overrides:
 #   vector_graphics:
 #     path: ../vector_graphics/packages/vector_graphics

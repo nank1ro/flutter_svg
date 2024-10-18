@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter_svg_plus/flutter_svg.dart';
 
 const List<String> _assetNames = <String>[
   // 'assets/notfound.svg', // uncomment to test an asset that doesn't exist.

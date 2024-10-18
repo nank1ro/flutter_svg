@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter_svg/src/cache.dart';
+import 'package:flutter_svg_plus/src/cache.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

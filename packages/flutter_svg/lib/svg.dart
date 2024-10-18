@@ -3,13 +3,13 @@ import 'dart:ui' as ui;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 import 'package:http/http.dart' as http;
-import 'package:vector_graphics/vector_graphics_compat.dart';
+import 'package:vector_graphics_plus/vector_graphics_compat.dart';
 
 import 'src/cache.dart';
 import 'src/loaders.dart';
 import 'src/utilities/file.dart';
 
-export 'package:vector_graphics/vector_graphics.dart'
+export 'package:vector_graphics_plus/vector_graphics.dart'
     show BytesLoader, vg, VectorGraphicUtilities, PictureInfo;
 
 export 'src/cache.dart';

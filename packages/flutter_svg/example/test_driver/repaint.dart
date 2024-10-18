@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_driver/driver_extension.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter_svg_plus/flutter_svg.dart';
 
 void main() {
   enableFlutterDriverExtension();

@@ -1,5 +1,13 @@
 # CHANGES
 
+## 2.0.12
+
+- Update import to support flutter wasm
+
+## 2.0.11
+
+- Fork flutter_svg
+
 ## 2.0.10+1
 
 - Relax http dependency.

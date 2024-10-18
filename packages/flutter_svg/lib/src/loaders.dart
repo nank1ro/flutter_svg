@@ -4,7 +4,8 @@ import 'package:flutter/foundation.dart' hide compute;
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:http/http.dart' as http;
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart' as vg;
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart'
+    as vg;
 import 'package:vector_graphics_plus/vector_graphics.dart';
 
 import '../svg.dart' show svg;

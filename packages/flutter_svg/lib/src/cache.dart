@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 /// The cache for decoded SVGs.
 class Cache {

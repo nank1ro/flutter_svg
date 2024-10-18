@@ -1,5 +1,9 @@
 # CHANGES
 
+## 2.0.13
+
+- Update dependencies
+
 ## 2.0.12
 
 - Update import to support flutter wasm
